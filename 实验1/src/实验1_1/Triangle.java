@@ -1,15 +1,17 @@
-package ÊµÑé1_1;
+package å®žéªŒ1_1;
 public class Triangle implements Shape {
 
 	@Override
 	public void draw() {
 		// TODO Auto-generated method stub
+		System.out.println("draw Triangle");
 
 	}
 
 	@Override
 	public void erase() {
 		// TODO Auto-generated method stub
+		System.out.println("draw Triangle");
 
 	}
 

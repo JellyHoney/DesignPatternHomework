@@ -1,4 +1,4 @@
-package 实验1_1;
+package 瀹為獙1_1;
 
 public class ShapeFactory {
 
@@ -16,7 +16,7 @@ public class ShapeFactory {
 			return new Triangle();
 		}
 		else{
-			throw new UnsupportedShapeException("不支持该性状");
+			throw new UnsupportedShapeException("锟斤拷支锟街革拷锟斤拷状");
 		}
 	}
 

@@ -1,4 +1,4 @@
-package ÊµÑé1_1;
+package å®žéªŒ1_1;
 public interface Shape {
 	void draw();
 	void erase();
