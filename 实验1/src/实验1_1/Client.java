@@ -9,11 +9,10 @@ public class Client {
 			shape.erase();
 		}
 		catch (UnsupportedShapeException e) {
-			System.out.println("unsupported shape");
+			System.out.println(e.getMessage());
 		}
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		test("circle");
 		test("rectangle");
 		test("triangle");

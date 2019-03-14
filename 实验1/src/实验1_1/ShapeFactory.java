@@ -1,10 +1,6 @@
 package 实验1_1;
 
 public class ShapeFactory {
-
-	public ShapeFactory() {
-		// TODO Auto-generated constructor stub
-	}
 	public static Shape createShape(String type) throws UnsupportedShapeException{
 		if(type.equalsIgnoreCase("circle")) {
 			return new Circle();
@@ -16,7 +12,7 @@ public class ShapeFactory {
 			return new Triangle();
 		}
 		else{
-			throw new UnsupportedShapeException("��֧�ָ���״");
+			throw new UnsupportedShapeException("unsupported shape");
 		}
 	}
 
