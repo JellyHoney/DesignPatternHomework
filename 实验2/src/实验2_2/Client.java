@@ -1,6 +1,6 @@
 package 实验2_2;
 
-public class client {
+public class Client {
 
     public static void main(String[] args) {
         LoginForm lForm=new LoginForm();

@@ -2,9 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d547116-9192-4b88-81b4-af11538e8abd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../实验2：面向对象设计原则.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验报告模板-设计模式国脉.doc" beforeDir="false" afterPath="$PROJECT_DIR$/实验报告模板-设计模式国脉.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验指导 简单工厂模式.doc" beforeDir="false" afterPath="$PROJECT_DIR$/实验指导 简单工厂模式.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/MacCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/MacRAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/PCCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/PCRAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验4/src/实验4_3/RAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验1/实验1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/src/实验2_2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Nvwa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Nvwa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/Woman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_1/XMLUtilPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_1/XMLUtilPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/Administrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/Administrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/实验3/实验3_2/UserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/实验3/实验3_2/UserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/.~指导 工厂方法和抽象工厂方法.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/src/实验4_2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/UnsupportedTVException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验4/实验指导 工厂方法和抽象工厂方法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/实验指导 工厂方法和抽象工厂方法.doc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +58,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_1/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="76">
               <caret line="4" column="40" selection-end-line="7" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
@@ -31,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="114">
               <caret line="6" column="33" selection-end-line="9" />
             </state>
           </provider>
@@ -40,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="38">
               <caret line="2" column="13" selection-end-line="10" />
             </state>
           </provider>
@@ -49,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_1/Woman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="76">
               <caret line="4" column="39" selection-end-line="7" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
@@ -62,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="57">
               <caret line="3" column="28" selection-end-line="7" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
@@ -75,7 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/UserFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="95">
               <caret line="5" column="19" selection-end-line="15" />
             </state>
           </provider>
@@ -84,7 +133,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_1/Man.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="38">
               <caret line="2" column="13" selection-end-line="7" />
               <folding>
                 <element signature="e#59#60#0" expanded="true" />
@@ -94,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/实验3_1/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-end-line="7" />
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#80#81#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
@@ -107,10 +156,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="171">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
@@ -119,7 +168,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/实验3_2/Administrator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="57">
               <caret line="3" column="38" selection-end-line="7" />
               <folding>
                 <element signature="e#101#102#0" expanded="true" />
@@ -173,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,19 +252,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553776124797" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../实验2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,21 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="实验3_2.Client" />
-      <module name="实验3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="实验3_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Client3_2">
+    <configuration name="Client3_1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="实验3_1.Client" />
       <module name="实验3" />
       <extension name="coverage">
@@ -254,10 +292,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client3_2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="实验3_2.Client" />
+      <module name="实验3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验3_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client3_2" />
+        <item itemvalue="Application.Client3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +326,9 @@
       <workItem from="1553566801546" duration="615000" />
       <workItem from="1553776054514" duration="92000" />
       <workItem from="1553824946341" duration="38000" />
+      <workItem from="1554267639056" duration="13000" />
+      <workItem from="1554268093666" duration="72000" />
+      <workItem from="1554268239774" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="完成实验3代码部分">
       <created>1553224182653</created>
@@ -287,13 +341,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6371000" />
+    <option name="totallyTimeSpent" value="6463000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1600" height="850" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,7 +356,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -399,7 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_1/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="76">
           <caret line="4" column="40" selection-end-line="7" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
@@ -410,21 +463,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_2/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="114">
           <caret line="6" column="33" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="38">
           <caret line="2" column="13" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_1/Woman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="76">
           <caret line="4" column="39" selection-end-line="7" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
@@ -435,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_2/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="57">
           <caret line="3" column="28" selection-end-line="7" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
@@ -446,14 +499,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_2/UserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="95">
           <caret line="5" column="19" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_1/Man.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="38">
           <caret line="2" column="13" selection-end-line="7" />
           <folding>
             <element signature="e#59#60#0" expanded="true" />
@@ -462,20 +515,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/实验3_1/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/实验3_2/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-end-line="7" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/实验3_2/Administrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="57">
           <caret line="3" column="38" selection-end-line="7" />
           <folding>
             <element signature="e#101#102#0" expanded="true" />
@@ -484,10 +533,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/实验3_2/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/实验3_1/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
