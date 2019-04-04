@@ -1,8 +1,6 @@
-package 实验1_2;
-
 public class Client {
 
-    static void test(String x) {
+    private static void test(String x) {
         try {
             TV tv=TVFactory.produceTV(x);
             tv.play();
