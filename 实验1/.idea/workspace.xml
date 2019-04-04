@@ -2,119 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c8dab18-f279-4e94-b75a-7732028c873a" name="Default Changelist" comment="把package改成module">
-      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/UnsupportedShapeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/XMLUtilShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_1/configShape.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/AbstractButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/ButtonFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/CircleButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/LoginForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/RectangleButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/XMLUtilButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/src/实验2_2/configButton.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/实验2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/实验2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../实验3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Nvwa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/Woman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/XMLUtilPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/configPerson.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_1/类图.mdj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/Administrator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/out/production/实验3/实验3_2/UserFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Man.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Nvwa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/Woman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/XMLUtilPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/configPerson.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_1/类图.mdj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/Administrator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/src/实验3_2/UserFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/实验3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验3/实验3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../实验4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/4_1类图.mdj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/4_1类图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/GifReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/GifReaderFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/ImageReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/ImageReaderFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/JpgReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_1/JpgReaderFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/HaierFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/HaierTV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/HisenseFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/HisenseTV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_2/TVFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/CPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/Mac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/MacCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/MacRAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/PCCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/PCRAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/out/production/实验4/实验4_3/RAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/GifReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/GifReaderFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/ImageReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/ImageReaderFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/JpgReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_1/JpgReaderFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/HaierFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/HaierTV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/HisenseFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/HisenseTV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/TV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_2/TVFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/CPU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/Mac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/MacCPU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/MacRAM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/PCCPU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/PCRAM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/src/实验4_3/RAM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/实验4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/实验4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/实验指导 工厂方法和抽象工厂方法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../实验4/实验指导 工厂方法和抽象工厂方法.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/类图.mdj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验4/类图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验报告模板-设计模式国脉.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../实验报告模板-设计模式国脉.doc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,11 +14,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/实验1_1/src/Client.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -140,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/实验1_2/src/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -168,16 +64,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../实验2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../实验4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
@@ -242,6 +138,8 @@
       <workItem from="1554368613480" duration="19000" />
       <workItem from="1554368671313" duration="175000" />
       <workItem from="1554368853754" duration="493000" />
+      <workItem from="1554372404499" duration="40000" />
+      <workItem from="1554372641031" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="把项目从linux移动到win，清理了eclipse的配置文件">
       <created>1554268794536</created>
@@ -261,12 +159,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1142000" />
+    <option name="totallyTimeSpent" value="1240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26606685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +179,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -318,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/实验1_2/src/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
