@@ -1,5 +1,3 @@
-package 实验3_1;
-
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
 
@@ -10,7 +8,7 @@ public class XMLUtilPerson {
         try {
             DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = dFactory.newDocumentBuilder();
-            Document doc=builder.parse(new File("./src/实验3_1/configPerson.xml"));
+            Document doc=builder.parse(new File("实验3_1/src/configPerson.xml"));
             NodeList nl = doc.getElementsByTagName("typeName");
             Node classNode=nl.item(0).getFirstChild();
             String st=classNode.getNodeValue().trim();

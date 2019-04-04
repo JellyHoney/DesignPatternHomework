@@ -1,5 +1,3 @@
-package 实验3_1;
-
 public class Nvwa {
     public static Person MakePerson(String typeName){
         if(typeName==null){

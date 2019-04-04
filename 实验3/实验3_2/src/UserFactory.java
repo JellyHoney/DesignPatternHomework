@@ -1,5 +1,3 @@
-package 实验3_2;
-
 public class UserFactory {
     public static User CreateUser(int level){
         if(level==0){
