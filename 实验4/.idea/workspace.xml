@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef7d4d62-0f64-46ed-ad36-e8a06c2b8f84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../实验1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实验3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../实验3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验指导 工厂方法和抽象工厂方法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/实验指导 工厂方法和抽象工厂方法.doc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +11,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -52,6 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,7 +68,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,6 +160,7 @@
       <workItem from="1554370752503" duration="183000" />
       <workItem from="1554370970408" duration="482000" />
       <workItem from="1554372477764" duration="76000" />
+      <workItem from="1554372700352" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="清理多余文件">
       <created>1554371261265</created>
@@ -165,16 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1554371261265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="清理多余文件">
+      <created>1554372902624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554372902624</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5599000" />
+    <option name="totallyTimeSpent" value="6428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27249357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
