@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/实验5.iml" filepath="$PROJECT_DIR$/实验5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实验5_1/实验5_1.iml" filepath="$PROJECT_DIR$/实验5_1/实验5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实验5_2/实验5_2.iml" filepath="$PROJECT_DIR$/实验5_2/实验5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实验5_3/实验5_3.iml" filepath="$PROJECT_DIR$/实验5_3/实验5_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/实验5_4/实验5_4.iml" filepath="$PROJECT_DIR$/实验5_4/实验5_4.iml" />
+    </modules>
+  </component>
+</project>

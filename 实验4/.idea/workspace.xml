@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7d4d62-0f64-46ed-ad36-e8a06c2b8f84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实验指导 工厂方法和抽象工厂方法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/实验指导 工厂方法和抽象工厂方法.doc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/实验4_1/src/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -46,6 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1103" />
+    <option name="y" value="483" />
     <option name="width" value="1590" />
     <option name="height" value="850" />
   </component>
@@ -55,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,6 +68,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +161,8 @@
       <workItem from="1554370752503" duration="183000" />
       <workItem from="1554370970408" duration="482000" />
       <workItem from="1554372477764" duration="76000" />
-      <workItem from="1554372700352" duration="829000" />
+      <workItem from="1554372700352" duration="903000" />
+      <workItem from="1554530118369" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="清理多余文件">
       <created>1554371261265</created>
@@ -176,16 +178,30 @@
       <option name="project" value="LOCAL" />
       <updated>1554372902624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成实验4实验报告">
+      <created>1554384976188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554384976188</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成实验4实验报告">
+      <created>1554384988242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554384988242</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6428000" />
+    <option name="totallyTimeSpent" value="6652000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1592" y="-8" width="916" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5081776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,7 +216,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.19032761" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -222,7 +238,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="清理多余文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="清理多余文件" />
+    <MESSAGE value="完成实验4实验报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成实验4实验报告" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/实验4_1/Client.java" />
@@ -605,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/实验4_1/src/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
