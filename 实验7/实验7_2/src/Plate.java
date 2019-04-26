@@ -20,7 +20,7 @@ public class Plate extends Component {
 
     @Override
     public void eat() {
-        System.out.println("吃掉了水果盘");
+        System.out.println("吃掉了"+name);
         for(Component component:children){
             component.eat();
         }
