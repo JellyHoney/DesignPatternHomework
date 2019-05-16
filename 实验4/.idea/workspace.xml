@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef7d4d62-0f64-46ed-ad36-e8a06c2b8f84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/src/DisplayHelpClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/src/FunctionButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/src/SystemExitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../实验8/实验8_1/实验8_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验指导6 适配器模式.doc" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,10 +53,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1103" />
-    <option name="y" value="483" />
-    <option name="width" value="1590" />
-    <option name="height" value="850" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -56,6 +64,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,8 +77,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,6 +171,7 @@
       <workItem from="1554372477764" duration="76000" />
       <workItem from="1554372700352" duration="903000" />
       <workItem from="1554530118369" duration="150000" />
+      <workItem from="1557457610046" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="清理多余文件">
       <created>1554371261265</created>
@@ -196,12 +205,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6652000" />
+    <option name="totallyTimeSpent" value="6682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="916" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5081776" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5147815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -216,7 +225,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.19032761" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.19002695" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
